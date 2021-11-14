@@ -3,3 +3,5 @@ Esta es mi primer archivo txt para realizar la comprobación de como trabaja,
 y claro aprender a hacer mis cosas con Git
 
 No me está yendo mal porque a pesar de ser lento estoy aprendiendo
+
+A ver si puedo con el error de commit sin comentario
