@@ -5,3 +5,5 @@ y claro aprender a hacer mis cosas con Git
 No me está yendo mal porque a pesar de ser lento estoy aprendiendo
 
 A ver si puedo con el error de commit
+
+Estoy agregando la última línea mucho mejor
